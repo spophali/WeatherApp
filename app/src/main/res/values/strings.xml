@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="clearSky">"clear sky"</string>
+    <string name="brokenCloud">"broken clouds"</string>
+    <string name="scatteredCloud">"scattered clouds"</string>
+</resources>
